@@ -1,0 +1,7 @@
+com/contactAPI/config/CorsConfig.class
+com/contactAPI/service/ContactService.class
+com/contactAPI/Application.class
+com/contactAPI/constant/Constant.class
+com/contactAPI/resource/ContactResource.class
+com/contactAPI/repo/ContactRepo.class
+com/contactAPI/entities/Contact.class
